@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Henrique, fullstack web developer!
+## Hi, I'm Pedro Henrique, fullstack developer!
 
 &nbsp;Sinta-se à vontade para explorar os projetos, serviços e links disponíveis, e não hesite em entrar em contato comigo para colaborações ou outras oportunidades. Estou sempre interessado em novos desafios e oportunidades de aprendizado.
 
